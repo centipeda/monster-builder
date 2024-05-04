@@ -1,0 +1,440 @@
+{
+    "slug": "a-mi-kuk",
+    "desc": "Crimson slime covers this ungainly creature. Its tiny black eyes sit in an abnormally large head, and dozens of sharp teeth fill its small mouth. Its limbs end in large, grasping claws that look strong enough to crush the life out of a bear._  \n**Hidden Terror.** The dreaded a-mi-kuk is a terrifying creature that feasts on any who venture into the bleak and icy expanses of the world. A-mi-kuks prowl the edges of isolated communities, snatching those careless enough to wander too far from camp. They also submerge themselves beneath frozen waters, coming up from below to grab and strangle lone fishermen.  \n**Fear of Flames.** A-mi-kuks have a deathly fear of fire, and anyone using fire against one has a good chance of making it flee in terror, even if the fire-user would otherwise be outmatched. A-mi-kuks are not completely at the mercy of this fear, however, and lash out with incredible fury if cornered by someone using fire against them.  \n**Unknown Origins.** A-mi-kuks are not natural creatures and contribute little to the ecosystems in which they live. The monsters are never seen together, and some believe them to be a single monster, an evil spirit made flesh that appears whenever a group of humans has angered the gods. A-mi-kuks have no known allies and viciously attack any creatures that threaten them, regardless of the foe’s size or power.",
+    "name": "A-mi-kuk",
+    "size": "Huge",
+    "type": "Aberration",
+    "subtype": "",
+    "group": null,
+    "alignment": "chaotic evil",
+    "armor_class": 14,
+    "armor_desc": "natural armor",
+    "hit_points": 115,
+    "hit_dice": "10d12+50",
+    "speed": {
+        "swim": 40,
+        "burrow": 20,
+        "walk": 30
+    },
+    "strength": 21,
+    "dexterity": 8,
+    "constitution": 20,
+    "intelligence": 7,
+    "wisdom": 14,
+    "charisma": 10,
+    "strength_save": null,
+    "dexterity_save": null,
+    "constitution_save": null,
+    "intelligence_save": null,
+    "wisdom_save": null,
+    "charisma_save": null,
+    "perception": 5,
+    "skills": {
+        "athletics": 10,
+        "perception": 5,
+        "stealth": 2
+    },
+    "damage_vulnerabilities": "",
+    "damage_resistances": "acid; bludgeoning, piercing, and slashing from nonmagical attacks",
+    "damage_immunities": "cold",
+    "condition_immunities": "paralyzed, restrained",
+    "senses": "darkvision 60 ft., tremorsense 30 ft., passive Perception 15",
+    "languages": "understands Common but can’t speak",
+    "challenge_rating": "7",
+    "cr": 7.0,
+    "actions": [
+        {
+            "name": "Multiattack",
+            "desc": "The a-mi-kuk makes two attacks: one with its bite and one with its grasping claw."
+        },
+        {
+            "name": "Bite",
+            "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) piercing damage.",
+            "attack_bonus": 8,
+            "damage_dice": "2d6+5"
+        },
+        {
+            "name": "Grasping Claw",
+            "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 18 (3d8 + 5) bludgeoning damage, and the target is grappled (escape DC 16). The a-mi-kuk has two grasping claws, each of which can grapple only one target at a time.",
+            "attack_bonus": 8,
+            "damage_dice": "3d8+5"
+        },
+        {
+            "name": "Strangle",
+            "desc": "The a-mi-kuk strangles one creature grappled by it. The target must make a DC 16 Strength saving throw. On a failure, the target takes 27 (6d8) bludgeoning damage, can’t breathe, speak, or cast spells, and begins suffocating. On a success, the target takes half the bludgeoning damage and is no longer grappled. Until this strangling grapple ends (escape DC 16), the target takes 13 (3d8) bludgeoning damage at the start of each of its turns. The a-mi-kuk can strangle up to two Medium or smaller targets or one Large target at a time."
+        }
+    ],
+    "bonus_actions": null,
+    "reactions": null,
+    "legendary_desc": "",
+    "legendary_actions": null,
+    "special_abilities": [
+        {
+            "name": "Hold Breath",
+            "desc": "The a-mi-kuk can hold its breath for 30 minutes."
+        },
+        {
+            "name": "Fear of Fire",
+            "desc": "The a-mi-kuk is afraid of fire, and it won’t move toward any fiery or burning objects. If presented forcefully with a flame, or if it is dealt fire damage, the a-mi-kuk must succeed on a DC 13 Wisdom saving throw or become frightened until the end of its next turn. After it has been frightened by a specific source of fire (such as the burning hands spell), the a-mi-kuk can’t be frightened by that same source again for 24 hours."
+        },
+        {
+            "name": "Icy Slime",
+            "desc": "The a-mi-kuk’s body is covered in a layer of greasy, ice-cold slime that grants it the benefits of freedom of movement. In addition, a creature that touches the a-mi-kuk or hits it with a melee attack while within 5 feet of it takes 7 (2d6) cold damage from the freezing slime. A creature grappled by the a-mi-kuk takes this damage at the start of each of its turns."
+        }
+    ],
+    "spell_list": [],
+    "page_no": 15,
+    "environments": [],
+    "img_main": null,
+    "document__slug": "tob2",
+    "document__title": "Tome of Beasts 2",
+    "document__license_url": "http://open5e.com/legal",
+    "document__url": "https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/"
+},
+{
+    "slug": "aalpamac",
+    "desc": "A chimeric beast with the body of a massive trout and the front claws and head of a fierce wolverine bursts up from the icy water. Its eyes glow with a lambent green light, and the air around it bends and distorts as if viewed through a thick lens._  \n**Hungry Lake Monsters.** The aalpamac is a dangerous freshwater predator native to lakes and rivers. While primarily a water-dwelling monster, the aalpamac can haul itself onto shore with its front claws and does so to attack prey drinking or moving at the water’s edge. While not evil, the aalpamac is a ravenous and territorial creature, ranging over an area of up to a dozen miles in search of fresh meat. Aalpamacs are not picky about what they consume and even attack large boats if sufficiently hungry. They are solitary creatures and tolerate others of their own kind only during mating seasons.  \n**Local Legends.** An aalpamac that terrorizes the same lake or river for many years often develops a reputation among the locals of the area, particularly those living along the body of water in question. Inevitably, this gives rise to a number of stories exaggerating the size, ferocity, disposition, or powers of the aalpamac. The stories often give aalpamacs names that highlight their most prominent features or are specific to the area in which they live, such as “Chompo” or “the Heron Lake Monster.” These stories also make the aalpamac the target of adventurers and trophy hunters, most of whom either do not locate the beast or fall victim to it.",
+    "name": "Aalpamac",
+    "size": "Huge",
+    "type": "Monstrosity",
+    "subtype": "",
+    "group": null,
+    "alignment": "unaligned",
+    "armor_class": 16,
+    "armor_desc": "natural armor",
+    "hit_points": 136,
+    "hit_dice": "13d12+52",
+    "speed": {
+        "walk": 15,
+        "swim": 50
+    },
+    "strength": 21,
+    "dexterity": 10,
+    "constitution": 19,
+    "intelligence": 2,
+    "wisdom": 16,
+    "charisma": 10,
+    "strength_save": null,
+    "dexterity_save": null,
+    "constitution_save": 7,
+    "intelligence_save": null,
+    "wisdom_save": null,
+    "charisma_save": null,
+    "perception": 6,
+    "skills": {
+        "perception": 6
+    },
+    "damage_vulnerabilities": "",
+    "damage_resistances": "cold",
+    "damage_immunities": "",
+    "condition_immunities": "",
+    "senses": "darkvision 60 ft., passive Perception 16",
+    "languages": "—",
+    "challenge_rating": "7",
+    "cr": 7.0,
+    "actions": [
+        {
+            "name": "Multiattack",
+            "desc": "The aalpamac makes three attacks: one with its bite and two with its claws."
+        },
+        {
+            "name": "Bite",
+            "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 16 (2d10 + 5) piercing damage.",
+            "attack_bonus": 8,
+            "damage_dice": "2d10+5"
+        },
+        {
+            "name": "Claws",
+            "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage.",
+            "attack_bonus": 8,
+            "damage_dice": "2d6+5"
+        }
+    ],
+    "bonus_actions": null,
+    "reactions": null,
+    "legendary_desc": "",
+    "legendary_actions": null,
+    "special_abilities": [
+        {
+            "name": "Amphibious",
+            "desc": "The aalpamac can breathe air and water."
+        },
+        {
+            "name": "Distance Distortion Aura",
+            "desc": "The presence of an aalpamac distorts the vision of creatures within 60 feet of it. Each creature that starts its turn in that area must succeed on a DC 15 Wisdom saving throw or be unable to correctly judge the distance between itself and its surroundings until the start of its next turn. An affected creature has disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight, and it can’t move more than half its speed on its turn. On a successful saving throw, the creature is immune to the aalpamac’s Distance Distortion Aura for the next 24 hours. Creatures with blindsight, tremorsense, or truesight are unaffected by this trait."
+        }
+    ],
+    "spell_list": [],
+    "page_no": 8,
+    "environments": [],
+    "img_main": null,
+    "document__slug": "tob2",
+    "document__title": "Tome of Beasts 2",
+    "document__license_url": "http://open5e.com/legal",
+    "document__url": "https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/"
+},
+{
+    "slug": "aatxe",
+    "desc": "",
+    "name": "Aatxe",
+    "size": "Large",
+    "type": "Celestial",
+    "subtype": "shapechanger",
+    "group": null,
+    "alignment": "lawful good",
+    "armor_class": 14,
+    "armor_desc": "natural armor",
+    "hit_points": 105,
+    "hit_dice": "10d10+50",
+    "speed": {
+        "walk": 50
+    },
+    "strength": 22,
+    "dexterity": 12,
+    "constitution": 20,
+    "intelligence": 10,
+    "wisdom": 14,
+    "charisma": 14,
+    "strength_save": null,
+    "dexterity_save": null,
+    "constitution_save": null,
+    "intelligence_save": null,
+    "wisdom_save": null,
+    "charisma_save": null,
+    "perception": null,
+    "skills": {
+        "athletics": 9,
+        "intimidation": 5
+    },
+    "damage_vulnerabilities": "",
+    "damage_resistances": "",
+    "damage_immunities": "",
+    "condition_immunities": "charmed, frightened",
+    "senses": "passive Perception 12",
+    "languages": "understands all but can't speak",
+    "challenge_rating": "5",
+    "cr": 5.0,
+    "actions": [
+        {
+            "attack_bonus": 9,
+            "damage_dice": "3d8+6",
+            "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 19 (3d8 + 6) piercing damage.",
+            "name": "Gore"
+        },
+        {
+            "desc": "The aatxe lowers its horns and paws at the ground with its hooves. Each creature within 30 feet of the aatxe must succeed on a DC 15 Wisdom saving throw or be frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the aatxe's Paw the Earth for the next 24 hours.",
+            "name": "Paw the Earth"
+        }
+    ],
+    "bonus_actions": null,
+    "reactions": null,
+    "legendary_desc": "The aatxe can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The aatxe regains spent legendary actions at the start of its turn.",
+    "legendary_actions": [
+        {
+            "desc": "The aatxe makes a Wisdom (Perception) check.",
+            "name": "Detect"
+        },
+        {
+            "desc": "The aatxe makes one gore attack.",
+            "name": "Gore (Costs 2 Actions)"
+        },
+        {
+            "desc": "The aatxe flares crimson with celestial power, protecting those nearby. The next attack that would hit an ally within 5 feet of the aatxe hits the aatxe instead.",
+            "name": "Bulwark (Costs 3 Actions)"
+        }
+    ],
+    "special_abilities": [
+        {
+            "desc": "If the aatxe moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.",
+            "name": "Charge"
+        },
+        {
+            "desc": "The aatxe can use an action to read the surface thoughts of one creature within 30 feet. This works like the detect thoughts spell, except it can only read surface thoughts and there is no limit to the duration. It can end this effect as a bonus action or by using an action to change the target. Limited Speech (Humanoid Form Only). The aatxe can verbally communicate only simple ideas and phrases, though it can understand and follow a conversation without issue.",
+            "name": "Know Thoughts"
+        },
+        {
+            "desc": "The aatxe has advantage on saving throws against spells and other magical effects.",
+            "name": "Magic Resistance"
+        },
+        {
+            "desc": "The aatxe can use its action to polymorph into a Medium male humanoid it has seen, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.",
+            "name": "Shapechanger"
+        }
+    ],
+    "spell_list": [],
+    "page_no": 7,
+    "environments": [],
+    "img_main": null,
+    "document__slug": "cc",
+    "document__title": "Creature Codex",
+    "document__license_url": "http://open5e.com/legal",
+    "document__url": "https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/"
+},
+{
+    "slug": "abaasy",
+    "desc": "",
+    "name": "Abaasy",
+    "size": "Huge",
+    "type": "Giant",
+    "subtype": "",
+    "group": null,
+    "alignment": "neutral evil",
+    "armor_class": 18,
+    "armor_desc": "armor scraps, Dual Shields",
+    "hit_points": 126,
+    "hit_dice": "11d12+55",
+    "speed": {
+        "walk": 40
+    },
+    "strength": 20,
+    "dexterity": 10,
+    "constitution": 20,
+    "intelligence": 9,
+    "wisdom": 14,
+    "charisma": 8,
+    "strength_save": null,
+    "dexterity_save": null,
+    "constitution_save": null,
+    "intelligence_save": null,
+    "wisdom_save": null,
+    "charisma_save": null,
+    "perception": 2,
+    "skills": {
+        "perception": 2
+    },
+    "damage_vulnerabilities": "",
+    "damage_resistances": "cold",
+    "damage_immunities": "",
+    "condition_immunities": "",
+    "senses": "darkvision 60', passive Perception 15",
+    "languages": "Common, Giant",
+    "challenge_rating": "8",
+    "cr": 8.0,
+    "actions": [
+        {
+            "name": "Multiattack",
+            "desc": "Three melee attacks only one of which can be a Shield Shove. If it uses two hands to make a Spear attack it can’t make an Iron Axe attack that turn."
+        },
+        {
+            "name": "Iron Axe",
+            "desc": "Melee Weapon Attack: +8 to hit, 10 ft., one target, 18 (3d8+5) slashing damage."
+        },
+        {
+            "name": "Shield Shove",
+            "desc": "Melee Weapon Attack: +8 to hit, 10 ft., one target, 15 (4d4+5) bludgeoning damage and target: DC 16 Str save or be knocked prone or pushed up to 15 ft. away from abaasy (abaasy’s choice)."
+        },
+        {
+            "name": "Spear",
+            "desc": "Melee or Ranged Weapon Attack: +8 to hit 15 ft. or range 20/60' one target 15 (3d6+5) piercing damage or 18 (3d8+5) piercing damage if used with two hands to make a melee attack."
+        },
+        {
+            "name": "Eyebeam (Recharge 5–6)",
+            "desc": "Fires a beam of oscillating energy from its eye in a 90' line that is 5 ft. wide. Each creature in the line: 27 (5d10) radiant (DC 16 Dex half)."
+        }
+    ],
+    "bonus_actions": null,
+    "reactions": null,
+    "legendary_desc": "",
+    "legendary_actions": null,
+    "special_abilities": [
+        {
+            "name": "Armored Berserker",
+            "desc": "The pain caused by the iron plates bolted to its body keep it on the edge of madness. Whenever it starts its turn with 60 hp or fewer roll a d6. On a 6 it goes berserk. While berserk has resistance to B/P/S damage. On each of its turns while berserk it attacks nearest creature it can see. If no creature is near enough to move to and attack attacks an object with preference for object smaller than itself. Once it goes berserk continues to do so until destroyed or regains all its hp."
+        },
+        {
+            "name": "Dual Shields",
+            "desc": "Carries two shields which together give it a +3 bonus to its AC (included in its AC)."
+        },
+        {
+            "name": "Poor Depth Perception",
+            "desc": "Has disadvantage on attack rolls vs. a target more than 30' away from it."
+        }
+    ],
+    "spell_list": [],
+    "page_no": 8,
+    "environments": [],
+    "img_main": null,
+    "document__slug": "tob3",
+    "document__title": "Tome of Beasts 3",
+    "document__license_url": "http://open5e.com/legal",
+    "document__url": "https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/"
+},
+{
+    "slug": "abbanith-giant",
+    "desc": "This giant has a bulky, muscular body and small eyes in its broad, flat face. The giant’s thumbs end in large, black claws._  \n**Ancient Giants of the Deep.** Abbanith giants are among the oldest races of giants known to exist and are said to have been around since the world was first formed. Many scholars turn to the giants’ deep connection with the earth as evidence of this fact, and the giants themselves make no efforts to deny it. Indeed, the oral tradition of the abbanith giants dates back millennia, to a time when gods walked the land, elves were first learning the secrets of magic, and humans were still living in caves. Most abbanith giants wear simple tunics or shorts woven of a strange subterranean fungus, though leaders occasionally wear armor.  \n**Consummate Diggers.** Abbanith giants dwell almost exclusively underground and are adept at using their incredibly hard thumb claws to dig massive tunnels through the earth. Druids and wizards studying the giants’ unique biology have deduced that mineral-based materials actually soften when struck by their claws. This feature has also made them the target of derro and duergar slavers wishing to use their skills to mine precious gems or build their fortifications, something the giants violently oppose despite their normally peaceable nature.  \n**Allies of the Earth.** For as long as either race can remember, abbanith giants have been allies of the Open Game License",
+    "name": "Abbanith Giant",
+    "size": "Large",
+    "type": "Giant",
+    "subtype": "",
+    "group": null,
+    "alignment": "neutral",
+    "armor_class": 13,
+    "armor_desc": "natural armor",
+    "hit_points": 76,
+    "hit_dice": "9d10+27",
+    "speed": {
+        "burrow": 30,
+        "walk": 40
+    },
+    "strength": 20,
+    "dexterity": 9,
+    "constitution": 17,
+    "intelligence": 10,
+    "wisdom": 13,
+    "charisma": 11,
+    "strength_save": 7,
+    "dexterity_save": null,
+    "constitution_save": 5,
+    "intelligence_save": null,
+    "wisdom_save": null,
+    "charisma_save": null,
+    "perception": null,
+    "skills": {},
+    "damage_vulnerabilities": "",
+    "damage_resistances": "",
+    "damage_immunities": "",
+    "condition_immunities": "",
+    "senses": "tremorsense 120 ft., passive Perception 11",
+    "languages": "Giant, Terran",
+    "challenge_rating": "3",
+    "cr": 3.0,
+    "actions": [
+        {
+            "name": "Multiattack",
+            "desc": "The abbanith giant makes two thumb claw attacks."
+        },
+        {
+            "name": "Thumb Claw",
+            "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) piercing damage.",
+            "attack_bonus": 7,
+            "damage_dice": "2d6+5"
+        }
+    ],
+    "bonus_actions": null,
+    "reactions": [
+        {
+            "name": "Earth Counter (Recharge 6)",
+            "desc": "When a creature the abbanith can see within 30 feet of it casts a spell, the abbanith counters it. This reaction works like the counterspell spell, except the abbanith can only counter spells that directly affect or create earth or stone, such as stone shape, wall of stone, or move earth, and it doesn’t need to make a spellcasting ability check, regardless of the spell’s level."
+        }
+    ],
+    "legendary_desc": "",
+    "legendary_actions": null,
+    "special_abilities": [
+        {
+            "name": "One with the Earth",
+            "desc": "The abbanith giant can detect the flows and rhythms of the earth—including things that interfere with these rhythms, such as earthquakes and magical anomalies. As a result, the abbanith giant can’t be surprised by an opponent that is touching the ground. In addition, the giant has advantage on attack rolls against constructs and elementals made of earth or stone."
+        },
+        {
+            "name": "Siege Monster",
+            "desc": "The giant deals double damage to objects and structures and triple damage to objects and structures made of earth or stone."
+        }
+    ],
+    "spell_list": [],
+    "page_no": 170,
+    "environments": [],
+    "img_main": null,
+    "document__slug": "tob2",
+    "document__title": "Tome of Beasts 2",
+    "document__license_url": "http://open5e.com/legal",
+    "document__url": "https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/"
+}
